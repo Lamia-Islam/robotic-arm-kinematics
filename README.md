@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/7c05d8f1-f1f1-443a-b20b-0f2ec3f8db0e
+
 # Robotic Arm Kinematics & Path Planning
 
 A simulated 6-DOF robotic arm built with ROS 2 (Humble), MoveIt2, and ros2_control — featuring Inverse Kinematics, collision-aware motion planning, and trajectory execution.
